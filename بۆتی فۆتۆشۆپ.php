@@ -2,7 +2,7 @@
 
 echo "This file BY >> coder-iq <br>";
 
-$API_KEY = 'AAEXDKU7qCrEG0hiLVqowWjwUu1K6V6gBdo'; // توكن
+$API_KEY = '1216660814:AAFilz517GnbtZK09-ZlXlDGHyzdTXN3QPc'; // توكن
 echo "https://api.telegram.org/bot$API_KEY/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME']; 
 
 define('API_KEY',$API_KEY);
